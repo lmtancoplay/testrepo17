@@ -7,4 +7,7 @@
 sal
 vinagre
 
+## Receta 
+
+Añadir todos los ingredientes a un vaso de batidora. 
 
